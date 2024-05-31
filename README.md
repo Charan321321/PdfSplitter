@@ -2,8 +2,6 @@
 
 A pdf splitter that split a pdf file into one or more pdf pieces by entered specific page interval.
 
-Download : https://github.com/AlperenTalaslioglu/PDFSplitter/blob/master/PDFSplitter.jar?raw=true
-
 Size: 4.9 Mb
 
 Coded in Java 8 and JavaFX
